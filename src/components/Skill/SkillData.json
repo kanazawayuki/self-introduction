@@ -1,0 +1,37 @@
+{
+    "mainSkills": [
+      {
+        "image": "python.png",
+        "name": "Python",
+        "caption": "Djangoフレームワークを中心に、メイン言語として使用していました。\n環境構築、設計、開発(コーディング)なと一通り対応可能です。"
+      },
+      {
+        "image": "js.jpg",
+        "name": "Javascript",
+        "caption": "現職でExpressを用いたDB連携等を行っておりました。\nフレームワークはReactを独学で勉強しており、本サイトもReactで構築しています。"
+      },
+      {
+        "image": "AWS.png",
+        "name": "AWS",
+        "caption": "EC2、Lambda、SES、RDS、S3、Route53などの主要サービスは一通り構築経験があります。"
+      }
+    ],
+    "subSkills": [
+      {
+        "image": "Azure.png",
+        "name": "Azure",
+        "caption": "AppService、VM、AzureOpenAIなど、一部サービスは実務で使用した経験があります。"
+      },
+      {
+        "image": "git.png",
+        "name": "Git",
+        "caption": "実務で頻繁に使用しており、問題なく使用できます。\n※現職ではGitlabを使用しています。"
+      },
+      {
+        "image": "AI.png",
+        "name": "生成系AI",
+        "caption": "AzureOpenAIのAPIを用いたサービスを現職でリリースしています。\nCognitiveSearchを用いた文書検索機能などを実装したサービスです。"
+      }
+    ]
+  }
+  

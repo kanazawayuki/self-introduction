@@ -1,0 +1,9 @@
+.navbar {
+    height: 70px;
+    background-color: #875C44 !important;
+}
+
+.brand {
+    padding-left: 2%;
+    cursor: pointer;
+}

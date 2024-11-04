@@ -1,0 +1,23 @@
+.contact-container{
+    margin:50px 0px;
+    padding-bottom: 25px;
+    height: auto;
+}
+
+.contact-heading{
+    text-align: center;
+    color:#875C44;
+    margin-bottom: 25px;
+}
+
+.form-content{
+    margin-bottom: 30px;
+}
+
+.submit-button{
+    margin:15px 0px;
+    display: block;
+    background-color:#875C44 !important;
+    border: none !important;
+    width: 30%;
+}
